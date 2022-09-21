@@ -6,7 +6,7 @@ A Blender add-on for easy creation of proxy meshes for a selected armature objec
 
 ## Motivation
 
-Animated armature objects (e.g., imported BVH data) cannot be rendered directly using Cycles or EEVEE. This add-on adds renderable proxy meshes to armature objects for visualization purposes.
+Animated armature objects (e.g., imported BVH motion capture data) cannot be rendered directly using Cycles or EEVEE unless they are skinned with meshes. This add-on adds renderable proxy meshes to armature objects for easy visualization.
 
 ## Usage
 
