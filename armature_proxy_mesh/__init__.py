@@ -194,7 +194,7 @@ class AMP_PT_ControlPanel(bpy.types.Panel):
     bl_label = "Armature Proxy Mesh"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
-    bl_category = "APM"
+    bl_category = "Armature Proxy"
 
     @classmethod
     def poll(cls, context: bpy.types.Context):
